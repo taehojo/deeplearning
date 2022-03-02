@@ -21,11 +21,7 @@
 
 **6장 로지스틱 회귀 모델: 참 거짓 판단하기** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning/blob/master/colab/ch06-colab.ipynb)] [[ipynb](https://github.com/taehojo/deeplearning/blob/master/ch06.ipynb)] 
 
-**7장 퍼셉트론과 인공지능의 시작** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning/blob/master/colab/ch07-colab.ipynb)] [[ipynb](https://github.com/taehojo/deeplearning/blob/master/ch07.ipynb)] 
-
 **8장 다층 퍼셉트론** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning/blob/master/colab/ch08-colab.ipynb)] [[ipynb](https://github.com/taehojo/deeplearning/blob/master/ch08.ipynb)] 
-
-**9장 오차 역전파에서 딥러닝으로** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning/blob/master/colab/ch09-colab.ipynb)] [[ipynb](https://github.com/taehojo/deeplearning/blob/master/ch09.ipynb)] 
 
 **10장 딥러닝 모델 설계하기** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning/blob/master/colab/ch10-colab.ipynb)] [[ipynb](https://github.com/taehojo/deeplearning/blob/master/ch10.ipynb)] 
 
