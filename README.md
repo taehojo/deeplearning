@@ -40,6 +40,8 @@
 
 
 
+**[심화학습 2] 파이썬 코드로 짜는 신경망** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning/blob/master/colab/in-depth-colab.ipynb)]
+
 **[별책 부록 1] 가장 많이 쓰이는 머신 러닝 알고리즘 TOP 10** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning/blob/master/colab/supplementary1_MLTop10-colab.ipynb)]
 
 **[별책 부록 2] 데이터 분석을 위한 판다스 - 92개의 예제 모음** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning/blob/master/colab/supplementary2_pands92-colab.ipynb)] 
