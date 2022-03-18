@@ -1,5 +1,10 @@
 ## 모두의 딥러닝 개정 3판 소스코드
 
++  [![Youtube](https://img.shields.io/youtube/channel/views/UC_LvgzB44dGRvOcQqMzdT4g?label=%EB%8F%99%EC%98%81%EC%83%81%20%EA%B0%95%EC%9D%98&style=social)](https://bit.ly/taehojo)  [바로가기](https://bit.ly/taehojo) 
++  [정오표](https://taehojo.github.io/book/deeplearning.pdf) 
+
+------
+
 `[구글 코랩 실행하기]` 링크를 클릭하면 각 장의 실행 코드로 이동합니다. 
 
 **2장. 딥러닝의 핵심 미리보기** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning/blob/master/colab/ch02-colab.ipynb)] 
@@ -38,15 +43,13 @@
 
 **22장 캐글로 시작하는 새로운 도전** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning/blob/master/colab/ch22-colab.ipynb)] 
 
-
+------
 
 **[심화학습 2] 파이썬 코드로 짜는 신경망** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning/blob/master/colab/in-depth-colab.ipynb)]
 
 **[별책 부록 1] 가장 많이 쓰이는 머신 러닝 알고리즘 TOP 10** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning/blob/master/colab/supplementary1_MLTop10-colab.ipynb)]
 
 **[별책 부록 2] 데이터 분석을 위한 판다스 - 92개의 예제 모음** [[구글 코랩 실행하기](https://colab.research.google.com/github/taehojo/deeplearning/blob/master/colab/supplementary2_pands92-colab.ipynb)] 
-
-
 
 ------
 
