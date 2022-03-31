@@ -53,7 +53,4 @@
 
 ------
 
-참고로, 모두의 딥러닝 개정 1판과 개정 2판의 소스코드가 저장된 곳은 다음과 같습니다. 
-
-- [개정 2판] https://github.com/taehojo/deeplearning-for-everyone-2nd
-- [개정 1판] https://github.com/taehojo/deeplearning-for-everyone-1st
+![](http://image.yes24.com/momo/TopCate3796/MidCate005/379540584.jpg)
