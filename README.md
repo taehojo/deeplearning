@@ -1,7 +1,7 @@
 ## 모두의 딥러닝 개정 3판 소스코드
 
 +  [![Youtube](https://img.shields.io/youtube/channel/views/UC_LvgzB44dGRvOcQqMzdT4g?label=%EB%8F%99%EC%98%81%EC%83%81%20%EA%B0%95%EC%9D%98&style=social)](https://bit.ly/taehojo)  [바로가기](https://bit.ly/taehojo) 
-+  [정오표](https://taehojo.github.io/book/deeplearning-20221107.pdf) 
++  [정오표](https://taehojo.github.io/book/deeplearning-20221108.pdf) 
 
 ------
 
