@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+anaconda_projects/db/project_filebrowser.db
